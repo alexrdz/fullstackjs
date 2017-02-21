@@ -1,0 +1,13 @@
+.Contest {
+  &__preview {
+    border: 1px solid #ddd;
+    margin-bottom: 1em;
+  }
+  &__category {
+    background-color: #ededed;
+    padding: .5em;
+  }
+  &__name {
+    padding: 1em .5em;
+  }
+}
